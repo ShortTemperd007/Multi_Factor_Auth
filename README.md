@@ -31,6 +31,13 @@ Ensure you have Python installed.
 
 Install the required packages:
 
+pip install pyotp qrcode pillow cryptography
+
+Usage
+
+Run the script using Python. Follow the on-screen instructions to register, log in, or reset your password.
+
+
 <img src="Screenshot 2024-07-23 140323.png" alt="1">
 
 <img src="Screenshot 2024-07-23 140347.png" alt="2">
@@ -38,8 +45,3 @@ Install the required packages:
 <img src="Screenshot 2024-07-23 140354.png" alt="3">
 
 
-pip install pyotp qrcode pillow cryptography
-
-Usage
-
-Run the script using Python. Follow the on-screen instructions to register, log in, or reset your password.
